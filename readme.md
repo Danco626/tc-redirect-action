@@ -25,5 +25,5 @@ Navigate to the project root directory and run the following commands
 #### Build
 *docker build -t tc-redirect .*
 
-#### run
+#### Run
 *docker run --name tc-redirect -p 3001:3001 -d tc-redirect*
